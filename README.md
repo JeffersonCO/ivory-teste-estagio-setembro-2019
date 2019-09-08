@@ -1,5 +1,6 @@
 # ivory-teste-estagio-setembro-2019
 Contém as questões referente ao teste para estágio da empresa Ivory
+
 Questao 1
 Na questao 1 foi solicitado uma analise do trecho de codigo no qual se encontra uma codificação para realizar a operação matematica de Fatorial.
 Após a analise foi encontrado um erro de semantica, nao de sintaxe pois segundo as leis matematicas no calculo de Fatorial nao e possivel entrar o numero zero pois todo numero multiplicado a zero e igual a zero, fazendo com que a função sempre retorne o valor 0.
